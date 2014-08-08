@@ -1,4 +1,4 @@
-screenshots
+pics
 ===========
 
-a repo for storing screenshots of projects
+a repo for storing screenshots and pictures of projects
